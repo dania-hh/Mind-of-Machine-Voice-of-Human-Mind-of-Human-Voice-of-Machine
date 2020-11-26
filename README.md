@@ -1,6 +1,7 @@
 # <div align="center"> Mind-of-Machine-Voice-of-Human. </div>
 # <div align="center"> Mind-of-Human-Voice-of-Machine </div>
-<div align="center"> https://soundtxtproj.carrd.co/ </div>
+<div align="center"> https://soundtxtproj.carrd.co/ </div>   
+
 
 <div align="center"> Sound clips where each speaker contains both an artificial and natural element of sound and text - one speaks with human voice and ai generated text, the other with computer-generated voice and human-generated text.   
  
