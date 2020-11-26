@@ -4,9 +4,7 @@
 
 
 <div align="center"> Sound clips where each speaker contains both an artificial and natural element of sound and text - one speaks with human voice and ai generated text, the other with computer-generated voice and human-generated text.   
- 
 Is there one speaker that sounds more human though? If so, why?   
-
 This project also in a way symbolizes the artificial and natural lives we live represented through sound and text.
 </div>
 
