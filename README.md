@@ -15,4 +15,4 @@ Used:
 - [Neural Text to Speech - IBM Bluemix](https://text-to-speech-demo.ng.bluemix.net/?_ga=2.189063086.46917973.1606208129-1641310624.1605972775)
 - [Standard Text to Speech](https://voicemaker.in/)
 
-[Project Documentation](https://docs.google.com/document/d/1Bp-P38yq-eeT_spXTXz7xjB3sFDJ0waOYwCGmH3OqLo/edit?usp=sharing)
+[Documentation](https://docs.google.com/document/d/1Bp-P38yq-eeT_spXTXz7xjB3sFDJ0waOYwCGmH3OqLo/edit?usp=sharing)
