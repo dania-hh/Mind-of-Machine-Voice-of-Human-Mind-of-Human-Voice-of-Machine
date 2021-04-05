@@ -1,4 +1,4 @@
-# <div align="center"> Mind-of-Machine-Voice-of-Human. </div>
+# <div align="center"> Mind-of-Machine-Voice-of-Human </div>
 # <div align="center"> Mind-of-Human-Voice-of-Machine </div>
 <div align="center"> https://soundtxtproj.carrd.co/ </div>   
 
