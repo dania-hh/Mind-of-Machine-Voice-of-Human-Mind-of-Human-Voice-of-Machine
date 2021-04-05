@@ -8,7 +8,7 @@ Which one sounds more human though? If so, why?
 This project also symbolizes the artificial and natural lives we live represented through sound and text.
 </div>
 
-Tools Used: 
+Used: 
 - [GPT - 2](https://transformer.huggingface.co/doc/gpt2-large)
 - [Sassbook AI writer](https://sassbook.com/ai-writer)
 - [Neural Text to Speech - Voicemaker](https://voicemaker.in/)
